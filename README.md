@@ -15,7 +15,7 @@ The initial step involved clearly defining the problem within the context of deb
 
 <br>  
 
-## II. Literature Review (S.II)
+## II. Literature Review (S.II) [Link Text](Step II: Literature review)
 A comprehensive literature review was conducted to understand the current state of AI-based fraud detection systems, exploring advancements in technology and identifying gaps in existing research. This review provided critical insights that informed the design of the system and helped highlight key challenges in the domain.
 
 <br>  
