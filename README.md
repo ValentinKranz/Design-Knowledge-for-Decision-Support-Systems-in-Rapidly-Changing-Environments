@@ -44,6 +44,7 @@ The initial design principles were evaluated through expert and user feedback, e
 An enterprise architecture (EA) model was developed to visualize and organize the system components, ensuring a clear mapping of the design principles across the business, application, and technology layers. This model helped align the AI-based FDS with the operational structure of financial institutions. <p></p> 
 As a second part of the instantiation of the DPs, a user-orientated interaction design was developed through a dashboard concept and a user interface for processing fraud reports.
 
+<br>  
 
 ## [VIII. Instantiation of Design Principles (R.VIII)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/7691e173255f771007fdd9bddcdca7c278e262b8/Step%208_Development%20of%20prototype)
 A user interface (UI) prototype was developed to showcase the user-centric aspects of the AI-based FDS. This interactive prototype enabled practical evaluation of the design principles, ensuring that user interaction requirements were adequately addressed.
