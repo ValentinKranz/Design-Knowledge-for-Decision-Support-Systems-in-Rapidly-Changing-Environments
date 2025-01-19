@@ -10,7 +10,7 @@ The contents cover key stages of the research process, from literature review to
 Furthermore, the following sections will briefly describe the steps conducted.
  
 
-## I. Problem Definition (S.I)
+## I. Problem Definition (S.I) [here](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/1cdf33c8031b8fc50b09d2e8c0f29552f1fc8be8/Step%202_%20Literature%20review)
 The initial step involved clearly defining the problem within the context of debit card fraud detection. This process focused on identifying the key challenges that financial institutions face in detecting fraudulent debit card transactions, providing a solid foundation for the subsequent development of the AI-based fraud detection system (FDS).
 
 <br>  
