@@ -1,4 +1,4 @@
-# Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions
+# Design Knowledge for Decision Support Systems in Rapidly Changing Environments
 
 This repository contains the online appendix for the paper titled <b>Designing AI-based Fraud Detection Systems for Debit Card Transactions: A Design Science Approach to Requirements and Principles</b>D. It includes supplementary information and documentation detailing various aspects of the design science research methodology used in the study. <p></p> 
 The contents cover key stages of the research process, from literature review to requirement formulation, as well as evaluation activities, interviews, and prototypes. The appendix provides deeper insights into the steps taken, the data collected, and the rationale behind the development of the design principles. Below you find the overall structure of the research project: <p></p> 
