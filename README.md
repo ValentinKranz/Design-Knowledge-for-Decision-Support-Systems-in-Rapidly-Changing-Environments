@@ -1,7 +1,11 @@
 # Design Knowledge for Decision Support Systems in Rapidly Changing Environments
 
-This repository contains the online appendix for the paper titled <b>Designing AI-based Fraud Detection Systems for Debit Card Transactions: A Design Science Approach to Requirements and Principles</b>D. It includes supplementary information and documentation detailing various aspects of the design science research methodology used in the study. <p></p> 
-The contents cover key stages of the research process, from literature review to requirement formulation, as well as evaluation activities, interviews, and prototypes. The appendix provides deeper insights into the steps taken, the data collected, and the rationale behind the development of the design principles. Below you find the overall structure of the research project: <p></p> 
+This repository contains the online appendix to the paper  
+**_Designing AI-based Fraud Detection Systems for Debit Card Transactions: A Design Science Approach to Requirements and Principles_**.
+It includes supplementary information and documentation covering the Design Science Research (DSR) process applied throughout the study. The materials span literature review, requirement formulation, stakeholder interviews, artefact design, and evaluation.
+The goal of this repository is to provide transparency into the development of generalized design knowledge for **Decision Support Systems (DSS)** operating in rapidly changing environments — using fraud detection as a representative use case. This includes the development and validation of the **PULS framework**:  
+**Probe, Understand, Learn, Scale**.
+Below is an overview of the research structure:
 
 ![7_Methodology drawio](https://github.com/user-attachments/assets/e6619d07-66cf-44a4-8fe7-5daac675eaed) <p></p> 
 
