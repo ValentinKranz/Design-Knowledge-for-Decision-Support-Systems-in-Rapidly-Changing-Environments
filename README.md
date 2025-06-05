@@ -4,8 +4,7 @@ This repository contains the online appendix to the paper **_Designing AI-based 
 
 It includes supplementary information and documentation covering the Design Science Research (DSR) process applied throughout the study. The materials span literature review, requirement formulation, stakeholder interviews, artefact design, and evaluation.
 
-The goal of this repository is to provide transparency into the development of generalized design knowledge for **Decision Support Systems (DSS)** operating in rapidly changing environments — using fraud detection as a representative use case. This includes the development and validation of the **PULS framework**:  
-**Probe, Understand, Learn, Scale**.
+The goal of this repository is to provide transparency into the development of generalized design knowledge for **Decision Support Systems (DSS)** operating in rapidly changing environments — using fraud detection as a representative use case. This includes the development and validation of the **PULS framework**: **Probe, Understand, Learn, Scale**.
 
 Below is an overview of the research structure:
 
@@ -14,25 +13,29 @@ Below is an overview of the research structure:
 <br> 
 
 Furthermore, the following sections will briefly describe the steps conducted.
- 
+
 
 ## I. Problem Definition
-The initial step involved clearly defining the problem within the context of debit card fraud detection. This process focused on identifying the key challenges that financial institutions face in detecting fraudulent debit card transactions, providing a solid foundation for the subsequent development of the AI-based fraud detection system (FDS).
+The initial step involved defining the overarching problem of how to design adaptive DSS in rapidly changing environments.  
+Using debit card fraud detection as a representative context, key challenges were identified — such as concept drift, data quality issues, and evolving fraud tactics — to ground the research in a high-stakes, real-world scenario.
 
 <br>  
 
 ## [II. Literature Review (S.II)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/1cdf33c8031b8fc50b09d2e8c0f29552f1fc8be8/Step%202_%20Literature%20review)
-A comprehensive literature review was conducted to understand the current state of AI-based fraud detection systems, exploring advancements in technology and identifying gaps in existing research. This review provided critical insights that informed the design of the system and helped highlight key challenges in the domain.
+A structured review of existing research on fraud detection systems and adaptive DSS was conducted.  
+This analysis revealed both technical and organizational challenges and highlighted a lack of design-oriented guidance for building robust DSS in volatile, data-intensive settings.
 
 <br>  
 
 ## [III. Design Requirements (S.III)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/7691e173255f771007fdd9bddcdca7c278e262b8/Step%203_Deriving%20requirements%20from%20scientific%20literature)
-Building on the literature review, critical theoretical design requirements (DRs) for an AI-based FDS were extracted. These requirements formed the basis for the system’s architecture and ensured that the solution addressed both technological and operational needs.
+Based on the literature review, theoretical design requirements (DRs) were derived to inform the design of DSS.  
+While grounded in the fraud detection domain, these requirements were abstracted to address broader issues of adaptability, scalability, and transparency.
 
 <br>  
 
 ## [IV. User and Expert Requirements (S.IV)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/7691e173255f771007fdd9bddcdca7c278e262b8/Step%204_Deriving%20requirements%20from%20experts%20and%20user%20interviews)
-To ensure that the system was aligned with practical needs, user and expert requirements (URs) were gathered. Semi-structured interviews with users and experts in the field provided valuable insights into their experiences, challenges, and expectations from a fraud detection system.
+To ensure practical relevance, semi-structured interviews were conducted with users and domain experts.  
+These interviews provided actionable insights into user needs, domain-specific challenges, and operational constraints, resulting in a set of user and expert requirements (URs).
 
 <br>  
 
@@ -47,21 +50,23 @@ The initial design principles were evaluated through expert and user feedback, e
 <br>  
 
 ## [VII. Instantiation of Design Principles (R.VII)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/7691e173255f771007fdd9bddcdca7c278e262b8/Step%207_%20Instantiation%20of%20design%20principles)
-An enterprise architecture (EA) model was developed to visualize and organize the system components, ensuring a clear mapping of the design principles across the business, application, and technology layers. This model helped align the AI-based FDS with the operational structure of financial institutions. <p></p> 
-As a second part of the instantiation of the DPs, a user-orientated interaction design was developed through a dashboard concept and a user interface for processing fraud reports.
+An enterprise architecture (EA) model and initial dashboard concept were developed to instantiate the PULS principles.  
+The EA model maps each principle across business, application, and technology layers. The dashboard concept translates them into user-facing interaction logic, reflecting real-world workflows in fraud detection.
 
 <br>  
 
 ## [VIII. Instantiation of Design Principles (R.VIII)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/7691e173255f771007fdd9bddcdca7c278e262b8/Step%208_Development%20of%20prototype)
-A user interface (UI) prototype was developed to showcase the user-centric aspects of the AI-based FDS. This interactive prototype enabled practical evaluation of the design principles, ensuring that user interaction requirements were adequately addressed.
+A functional UI prototype was developed to demonstrate and validate the user-centric aspects of the proposed DSS design.  
+It includes features such as contextual transparency, analyst feedback input, and interactive decision support.
 
 <br>  
 
 ## [IX. Evaluation of Artefact (IX)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/7691e173255f771007fdd9bddcdca7c278e262b8/Step%209_Evaluation%20of%20artefact)
-The artefact, including the EA model, UI mock-up and prototype, underwent thorough evaluation in collaboration with users and experts. Feedback was gathered to assess how well the design principles were integrated and whether they effectively addressed the identified challenges in fraud detection.
+he complete artefact — including EA model, dashboard concept, and UI prototype — underwent final evaluation with users and experts.  
+The evaluation assessed completeness, usefulness, and adaptability of the solution, confirming the relevance and generalizability of the design principles in dynamic decision environments.
 
 <br>  
 
 ## X. Documentation and Design Knowledge (X)
-The final step involved documenting the design knowledge gained throughout the itera
-
+The final step involved documenting the developed design knowledge in a generalizable and actionable form.  
+This includes the codification of the PULS principles, artefact blueprints, and lessons learned from the evaluation.
