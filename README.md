@@ -21,7 +21,7 @@ Using debit card fraud detection as a representative context, key challenges wer
 
 <br>  
 
-## [II. Literature Review (S.II)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/1cdf33c8031b8fc50b09d2e8c0f29552f1fc8be8/Step%202_%20Literature%20review)
+## [II. Literature Review (S.II)](https://github.com/ValentinKranz/Design-Knowledge-for-Decision-Support-Systems-in-Rapidly-Changing-Environments/blob/999b800be5229e6fd2e9fa4c2ff696a99609a39d/Step%202_%20Literature%20review/Literature%20review%20summary.pdf)
 A structured review of existing research on fraud detection systems and adaptive DSS was conducted.  
 This analysis revealed both technical and organizational challenges and highlighted a lack of design-oriented guidance for building robust DSS in volatile, data-intensive settings.
 
