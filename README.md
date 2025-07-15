@@ -21,19 +21,19 @@ Using debit card fraud detection as a representative context, key challenges wer
 
 <br>  
 
-## [II. Literature Review (S.II)](https://github.com/ValentinKranz/Design-Knowledge-for-Decision-Support-Systems-in-Rapidly-Changing-Environments/blob/999b800be5229e6fd2e9fa4c2ff696a99609a39d/Step%202_%20Literature%20review/Literature%20review%20summary.pdf)
+## II. Literature Review (S.II)
 A structured review of existing research on fraud detection systems and adaptive DSS was conducted.  
 This analysis revealed both technical and organizational challenges and highlighted a lack of design-oriented guidance for building robust DSS in volatile, data-intensive settings.
 
 <br>  
 
-## [III. Design Requirements (S.III)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/7691e173255f771007fdd9bddcdca7c278e262b8/Step%203_Deriving%20requirements%20from%20scientific%20literature)
+## III. Design Requirements (S.III)
 Based on the literature review, theoretical design requirements (DRs) were derived to inform the design of DSS.  
 While grounded in the fraud detection domain, these requirements were abstracted to address broader issues of adaptability, scalability, and transparency.
 
 <br>  
 
-## [IV. User and Expert Requirements (S.IV)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/7691e173255f771007fdd9bddcdca7c278e262b8/Step%204_Deriving%20requirements%20from%20experts%20and%20user%20interviews)
+## IV. User and Expert Requirements (S.IV)
 To ensure practical relevance, semi-structured interviews were conducted with users and domain experts.  
 These interviews provided actionable insights into user needs, domain-specific challenges, and operational constraints, resulting in a set of user and expert requirements (URs).
 
@@ -44,24 +44,24 @@ From the user and expert requirements, design principles (DPs) were derived. The
 
 <br>  
 
-## [VI. Evaluation of Design Principles (S.VI)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/7691e173255f771007fdd9bddcdca7c278e262b8/Step%206_Evaluation%20of%20design%20principles)
+## VI. Evaluation of Design Principles (S.VI)
 The initial design principles were evaluated through expert and user feedback, ensuring that the principles were both relevant and actionable. This feedback led to refinements, helping to improve the principles’ quality and applicability in real-world settings.
 
 <br>  
 
-## [VII. Instantiation of Design Principles (R.VII)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/7691e173255f771007fdd9bddcdca7c278e262b8/Step%207_%20Instantiation%20of%20design%20principles)
+## VII. Instantiation of Design Principles (R.VII)
 An enterprise architecture (EA) model and initial dashboard concept were developed to instantiate the PULS principles.  
 The EA model maps each principle across business, application, and technology layers. The dashboard concept translates them into user-facing interaction logic, reflecting real-world workflows in fraud detection.
 
 <br>  
 
-## [VIII. Instantiation of Design Principles (R.VIII)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/7691e173255f771007fdd9bddcdca7c278e262b8/Step%208_Development%20of%20prototype)
+## [VIII. Instantiation of Design Principles (R.VIII)
 A functional UI prototype was developed to demonstrate and validate the user-centric aspects of the proposed DSS design.  
 It includes features such as contextual transparency, analyst feedback input, and interactive decision support.
 
 <br>  
 
-## [IX. Evaluation of Artefact (IX)](https://github.com/ValentinKranz/Designing-and-Evaluating-AI-Based-Fraud-Detection-Systems-for-Debit-Card-Transactions/tree/7691e173255f771007fdd9bddcdca7c278e262b8/Step%209_Evaluation%20of%20artefact)
+## IX. Evaluation of Artefact (IX)
 he complete artefact — including EA model, dashboard concept, and UI prototype — underwent final evaluation with users and experts.  
 The evaluation assessed completeness, usefulness, and adaptability of the solution, confirming the relevance and generalizability of the design principles in dynamic decision environments.
 
